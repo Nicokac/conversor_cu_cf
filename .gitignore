@@ -1,0 +1,6 @@
+*.pfx
+*.exe
+__pycache__/
+.vscode/
+dist/
+build/
