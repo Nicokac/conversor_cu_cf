@@ -1,7 +1,7 @@
 # Calculadora de Cajas Físicas
 
 ## Descripción
-Esta aplicación es una calculadora de cajas físicas desarrollada en Python con la biblioteca Tkinter. Permite realizar la conversión la cantidad de cajas unitarias a cajas físicas, basandose en el tamaño de la botella (en litros) y el número de botellas por empaque.
+Esta aplicación es una calculadora de cajas físicas desarrollada en Python con la biblioteca Tkinter. Permite realizar la conversión de la cantidad de cajas unitarias a cajas físicas, basandose en el tamaño de la botella (en litros) y el número de botellas por empaque.
 
 ## Cómo usar la calculadora
 1. **Cant. cajas unitarias:** Ingresa el número de cajas unitarias disponibles.
@@ -17,11 +17,11 @@ Para información sobre el creador y las versiones de Python y Tkinter utilizada
 - **Tkinter:** Incluido por defecto en las distribuciones estándar de Python.
 
 ## Instrucciones para ejecutar el script
-1. Clona o descarga el repositorio que contiene el archivo `main.py`.
+1. Clona o descarga el repositorio que contiene el archivo `conversor_cu_cf.py`.
 2. Abre una terminal o línea de comandos y navega al directorio donde se encuentra el archivo.
 3. Ejecuta el siguiente comando:
    ```bash
-   python calculadora_cajas.py
+   python conversor_cu_cf.py
    ```
 4. La aplicación gráfica se abrirá y estará lista para usar.
 
